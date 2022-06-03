@@ -1,7 +1,5 @@
 # my-react-boilerplate
-This is the boilerplate for React + Webpack + TS default setup + 
-`routing setup` + 
-`lazy loading components` for each route
+This is the boilerplate for React + Webpack + TS default setup + `routing setup` + `lazy loading components` for each route + `context setup`
 
 ## Setup
 1. Clone the repo
